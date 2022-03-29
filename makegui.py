@@ -1,6 +1,6 @@
 from typing import Iterable
 import PySimpleGUI as sg
-from numpy import sort
+
 
 import csv_analyser
 
