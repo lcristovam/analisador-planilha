@@ -1,6 +1,8 @@
-# analisador-planilha feito em python 
+# analisador-planilha feito em python  3.10
 
-#Em fase de melhoria.
+#Pacotes utilizados
+ - Pandas
+ - 
 
 Este código é uma simples demonstração de leitura de CSV. A análise de faz sob duas colunas, uma de data e outra de valor, simulando um relatório de vendas por dia.
 
